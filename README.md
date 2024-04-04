@@ -1,6 +1,6 @@
 # Hi there, I'm Dhanush K J! 👨‍💻
 
-![Bitcoin Network Visualization]([https://media.giphy.com/media/MFabj1E9mgUsqwVWHu/giphy.gif](https://giphy.com/gifs/n6mEMqAuYOQ8l8qcEE))
+![Bitcoin Network Visualization]([[https://media.giphy.com/media/MFabj1E9mgUsqwVWHu/giphy.gif](https://giphy.com/gifs/n6mEMqAuYOQ8l8qcEE](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHVjOTl2a3N3cG1sdnpscXFuOXY5bzJhaDE2YmdzaHAxd2M0MXQ4aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/n6mEMqAuYOQ8l8qcEE/giphy.gif))
 
 
 As a passionate software developer, I've honed my skills through both formal education and hands-on experience, building scalable and efficient applications. Below is a glimpse into my toolbox and the journey that's shaped my love for technology.
