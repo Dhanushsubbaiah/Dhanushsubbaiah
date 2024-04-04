@@ -45,10 +45,10 @@ console.log(...webTech);
 
 ## 📫 How to reach me
 
-- [LinkedIn Profile](https://www.linkedin.com/in/dhanushsubbaiah)
-- [Twitter Handle](https://twitter.com/yourhandle)
-- 📧 Email: your-email@example.com
+- [LinkedIn Profile]([https://www.linkedin.com/in/dhanushsubbaiah](https://www.linkedin.com/in/dhanush-subbaiah/))
+- 📧 Email: dhanushsubbaiah59@gmail.com
 
 ## ⚡ Fun Fact
 
 - I'm always looking for new tech gadgets and innovations.
+```
