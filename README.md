@@ -1,6 +1,7 @@
 # Hi there, I'm [Dhanush K J]! 👨‍💻
 
-![Technology Earth Communications GIF]([https://giphy.com/gifs/technology-earth-communications-U4FkC2VqpeNRHjTDQ5])
+![Technology Earth Communications](https://media.giphy.com/media/U4FkC2VqpeNRHjTDQ5/giphy.gif)
+
 
 As a passionate software developer, I've honed my skills through both formal education and hands-on experience, building scalable and efficient applications. Below is a glimpse into my toolbox and the journey that's shaped my love for technology.
 
