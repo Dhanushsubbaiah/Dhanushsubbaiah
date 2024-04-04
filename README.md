@@ -1,6 +1,6 @@
-# Hi there, I'm [Your Name]! 👨‍💻
+# Hi there, I'm [Dhanush K J]! 👨‍💻
 
-![Coder's Life](https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif)
+![Technology Earth Communications GIF](https://media.giphy.com/media/U4FkC2VqpeNRHjTDQ5/giphy.gif)
 
 As a passionate software developer, I've honed my skills through both formal education and hands-on experience, building scalable and efficient applications. Below is a glimpse into my toolbox and the journey that's shaped my love for technology.
 
@@ -19,7 +19,7 @@ Armed with a strong foundation in computer science principles from these institu
 #include <stdio.h>
 
 int main() {
-    printf("C, C++, Java, JavaScript, Python, Golang, Solidity\n");
+    printf("C, C++, Java, JavaScript, Python, Solidity\n");
     return 0;
 }
 
@@ -32,7 +32,7 @@ SELECT 'MySQL', 'NoSQL';
 ## 🖥️ Web Technologies
 
 ```javascript
-const webTech = ['HTML5', 'CSS', 'Node.js'];
+const webTech = ['HTML5', 'CSS', 'Node.js, React.js'];
 console.log(...webTech);
 ```
 
