@@ -1,6 +1,3 @@
-Certainly! Below is the Markdown code for the GitHub README file template we've discussed, including your academic background and technical skills. Be sure to customize the placeholders and links with your personal information.
-
-```markdown
 # Hi there, I'm [Your Name]! 👨‍💻
 
 ![Coder's Life](https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif)
@@ -25,7 +22,6 @@ int main() {
     printf("C, C++, Java, JavaScript, Python, Golang, Solidity\n");
     return 0;
 }
-```
 
 ## 💾 Databases
 
