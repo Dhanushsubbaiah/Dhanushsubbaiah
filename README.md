@@ -11,6 +11,7 @@ int main() {
     printf("C, C++, Java, JavaScript, Python, Solidity\n");
     return 0;
 }
+```
 
 ## 💾 Databases
 
@@ -51,4 +52,3 @@ console.log(...webTech);
 ## ⚡ Fun Fact
 
 - I'm always looking for new tech gadgets and innovations.
-```
