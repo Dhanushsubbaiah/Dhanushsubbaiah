@@ -1,6 +1,6 @@
 # Hi there, I'm Dhanush K J! 👨‍💻
 
-![Coder's Life]([https://media.giphy.com/media/U4FkC2VqpeNRHjTDQ5giphy.gif](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTM0Nmx0bmhlNDYwNHhjdXFpN2Iwc3Nwb3BlZjFubnF3MHQ4dzVpbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/U4FkC2VqpeNRHjTDQ5/giphy-downsized-large.gif))
+![Coder's Life]((https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTM0Nmx0bmhlNDYwNHhjdXFpN2Iwc3Nwb3BlZjFubnF3MHQ4dzVpbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/U4FkC2VqpeNRHjTDQ5/giphy-downsized-large.gif))
 
 As a passionate software developer, I've honed my skills through both formal education and hands-on experience, building scalable and efficient applications. Below is a glimpse into my toolbox and the journey that's shaped my love for technology.
 
