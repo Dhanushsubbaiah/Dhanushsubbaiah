@@ -71,5 +71,3 @@ console.log(...webTech);
 - I can solve a Rubik's cube in under one minute.
 - I'm always looking for new tech gadgets and innovations.
 ```
-
-This Markdown template is designed for GitHub and uses various Markdown features such as images, code blocks, and lists to organize and present your information attractively. Make sure to replace `[Your Name]`, the example URLs for LinkedIn, Twitter, and your email, along with any other placeholders, with your actual information. Additionally, you can find a suitable GIF that matches your personality or professional aesthetic to replace the example provided.
