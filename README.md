@@ -1,6 +1,6 @@
-# Hi there, I'm [Dhanush K J]! 👨‍💻
+# Hi there, I'm Dhanush K J! 👨‍💻
 
-![Technology Earth Communications](https://media.giphy.com/media/U4FkC2VqpeNRHjTDQ5/giphy.gif)
+![Bitcoin Network Visualization](https://media.giphy.com/media/MFabj1E9mgUsqwVWHu/giphy.gif)
 
 
 As a passionate software developer, I've honed my skills through both formal education and hands-on experience, building scalable and efficient applications. Below is a glimpse into my toolbox and the journey that's shaped my love for technology.
