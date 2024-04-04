@@ -38,6 +38,7 @@ console.log(...webTech);
 
 - Azure ☁️
 - Google Cloud ☁️
+- AWS ☁️
 
 ## 🛠️ Tools & Others
 
@@ -56,12 +57,7 @@ console.log(...webTech);
 - [Twitter Handle](https://twitter.com/yourhandle)
 - 📧 Email: your-email@example.com
 
-## 📊 My GitHub Stats
-
-![YourName's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-
 ## ⚡ Fun Fact
 
-- I can solve a Rubik's cube in under one minute.
 - I'm always looking for new tech gadgets and innovations.
 ```
