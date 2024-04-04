@@ -2,15 +2,6 @@
 
 As a passionate software developer, I've honed my skills through both formal education and hands-on experience, building scalable and efficient applications. Below is a glimpse into my toolbox and the journey that's shaped my love for technology.
 
-## 🎓 Education
-
-- **Masters of Science in Computer Science**
-  - California State University, Fullerton
-- **B.E. in Computer Science and Engineering**
-  - Dr. Ambedkar Institute of Technology
-
-Armed with a strong foundation in computer science principles from these institutions, I've delved into various areas of software development, from system programming to web development and cloud computing.
-
 ## 🌐 Programming Languages
 
 ```c
