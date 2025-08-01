@@ -1,54 +1,84 @@
-# Hi there, **I'm Dhanush K J** ! 👨‍💻
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=800&color=30F7A5&center=true&width=500&lines=Hi%2C+I'm+Dhanush+K+J+%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB" alt="Typing SVG" />
+</p>
 
-As a passionate software developer, I've honed my skills through both formal education and hands-on experience, building scalable and efficient applications. Below is a glimpse into my toolbox and the journey that's shaped my love for technology.
+**Software Developer | Cloud Enthusiast | AI Explore | Blockchain Engineer**
 
-## 🌐 Programming Languages
+---
 
-```c
-#include <stdio.h>
+I’m a software developer with hands-on experience in full-stack web development, blockchain engineering, AI/ML, and cloud computing. I’ve built Ethereum-based DApps, decentralized exchanges, GAN-powered image generators, and secure backend systems using modern tools like Solidity, React, Node.js, PyTorch, and Azure. I enjoy turning complex problems into scalable, user-focused solutions while constantly exploring new technologies and improving my craft.
 
-int main() {
-    printf("C, C++, Java, JavaScript, Python, Solidity\n");
-    return 0;
-}
-```
+---
 
-## 💾 Databases
+### 🧰 Tech Toolbox
 
-```sql
-SELECT 'MySQL', 'NoSQL';
-```
+#### 🌐 Programming Languages
+- C, C++, Java, JavaScript, TypeScript, Python, Solidity
 
-## 🖥️ Web Technologies
+#### 💾 Databases
+- MySQL, PostgreSQL, MongoDB, NoSQL
 
-```javascript
-const webTech = ['HTML5', 'CSS', 'Node.js, React.js'];
-console.log(...webTech);
-```
+#### 🖥️ Web Technologies
+- HTML5, CSS3, React.js, Next.js, TailwindCSS  
+- Node.js, Express.js
 
-## ☁️ Cloud Platforms
+---
 
-- Azure ☁️
-- Google Cloud ☁️
-- AWS ☁️
+#### ☁️ Cloud & DevOps
 
-## 🛠️ Tools & Others
+**Platforms:**  
+- Microsoft Azure  
+- Google Cloud Platform  
+- AWS (basic)
 
-- Git 🌿
-- Jira 📋
+**DevOps Tools:**  
+- Git & GitHub, Postman, Jira, JWT  
+- REST API design, automated testing  
 
-## 🚀 I’m currently working on ...
+---
 
-- Enhancing my full-stack development skills.
-- Exploring blockchain technology with Solidity.
-- Cloud architecture and deployment on Azure and Google Cloud.
+#### 🤖 AI / ML & Generative Models
 
-## 📫 How to reach me
+**Frameworks & Models:**  
+- PyTorch, DCGAN, StyleGAN2  
+- MLPs, CNNs, GANs  
 
-- [LinkedIn Profile](https://www.linkedin.com/in/dhanush-subbaiah/)
-- 📧 Email: dhanushsubbaiah59@gmail.com
+**Tasks & Skills:**  
+- Hyperparameter tuning  
+- Epoch visualization  
+- Model evaluation and image quality analysis  
 
-## ⚡ Fun Fact
+---
 
-- I'm always looking for new tech gadgets and innovations.
+#### ⛓️ Blockchain Stack
 
+**Smart Contracts:**  
+- Solidity, Hardhat, Foundry  
+- Unit testing, gas optimization, modifiers, access control  
+
+**Web3 Tooling:**  
+- Ethers.js, WAGMI, MetaMask, Alchemy, Ganache  
+- Cross-chain integration with Chainlink CCIP  
+
+---
+
+### 📈 Used Languages (via GitHub)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dhanushsubbaiah&layout=compact&theme=tokyonight)
+
+---
+
+### 📫 How to reach me
+
+- [LinkedIn](https://www.linkedin.com/in/dhanush-subbaiah/)  
+- 📧 dhanushsubbaiah59@gmail.com  
+
+---
+
+### ⚡ Fun Fact
+
+I love building and optimizing, from training GANs for image generation and developing cross-chain DApps to designing secure smart contracts and exploring scalable cloud solutions.
+
+---
+
+[![](https://visitcount.itsvg.in/api?id=Dhanushsubbaiah&label=Profile%20Views&color=6&icon=5&pretty=true)](https://github.com/Dhanushsubbaiah)
