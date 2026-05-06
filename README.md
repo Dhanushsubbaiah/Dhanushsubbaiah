@@ -35,11 +35,10 @@ LangChain, RAG, Vector Databases, FAISS, LLM APIs, PyTorch, CNNs, GANs, DCGAN, S
 **Blockchain**  
 Solidity, Hardhat, Foundry, Ethers.js, WAGMI, MetaMask, Alchemy, Chainlink CCIP
 
-### Core Technologies
-
 <p align="left">
   <img src="https://skillicons.dev/icons?i=java,js,ts,python,cpp,c,nodejs,express,spring,react,nextjs,html,css,tailwind,postgres,mysql,mongodb,redis,aws,azure,gcp,docker,kubernetes,terraform,jenkins,github,git,solidity" />
 </p>
+
 ---
 
 ## What I Work On
