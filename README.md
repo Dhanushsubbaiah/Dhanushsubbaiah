@@ -48,10 +48,11 @@ Solidity, Hardhat, Foundry, Ethers.js, WAGMI, MetaMask, Alchemy, Chainlink CCIP
 
 ---
 
-## GitHub Stats
+## GitHub Activity
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dhanushsubbaiah&layout=compact&theme=tokyonight)
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhanushsubbaiah&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
 ---
 
 ## Connect With Me
