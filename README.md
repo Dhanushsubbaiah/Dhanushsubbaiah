@@ -1,84 +1,67 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=800&color=30F7A5&center=true&width=500&lines=Hi%2C+I'm+Dhanush+K+J+%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=800&color=30F7A5&center=true&width=600&lines=Hi%2C+I'm+Dhanush+K+J+%F0%9F%91%8B;Software+Engineer;Full-Stack+Developer;Cloud+%26+AI+Enthusiast" alt="Typing SVG" />
 </p>
 
-**Software Developer | Cloud Enthusiast | AI Explore | Blockchain Engineer**
+# Dhanush K J
+
+**Software Engineer | Full-Stack Developer | Cloud & AI Enthusiast**
+
+I’m a software engineer with experience building scalable backend systems, full-stack applications, cloud-native services, and AI-powered platforms. My work spans Java and Spring Boot microservices, Node.js APIs, React dashboards, event-driven systems, and AI/RAG-based workflows using modern cloud and data tools.
+
+I enjoy designing reliable systems, improving backend performance, and building user-focused products that solve real-world problems.
 
 ---
 
-I’m a software developer with hands-on experience in full-stack web development, blockchain engineering, AI/ML, and cloud computing. I’ve built Ethereum-based DApps, decentralized exchanges, GAN-powered image generators, and secure backend systems using modern tools like Solidity, React, Node.js, PyTorch, and Azure. I enjoy turning complex problems into scalable, user-focused solutions while constantly exploring new technologies and improving my craft.
+## Tech Stack
+
+**Languages**  
+Java, JavaScript, TypeScript, Python, SQL, Solidity, C, C++
+
+**Backend**  
+Spring Boot, Node.js, Express.js, REST APIs, Microservices, Kafka, RabbitMQ
+
+**Frontend**  
+React.js, Next.js, HTML5, CSS3, TailwindCSS
+
+**Databases & Caching**  
+PostgreSQL, MySQL, MongoDB, DynamoDB, Redis
+
+**Cloud & DevOps**  
+AWS, Microsoft Azure, Google Cloud Platform, Docker, Kubernetes, Terraform, GitHub Actions, Jenkins
+
+**AI & Data Systems**  
+LangChain, RAG, Vector Databases, FAISS, LLM APIs, PyTorch, CNNs, GANs, DCGAN, StyleGAN2
+
+**Blockchain**  
+Solidity, Hardhat, Foundry, Ethers.js, WAGMI, MetaMask, Alchemy, Chainlink CCIP
 
 ---
 
-### 🧰 Tech Toolbox
+## What I Work On
 
-#### 🌐 Programming Languages
-- C, C++, Java, JavaScript, TypeScript, Python, Solidity
-
-#### 💾 Databases
-- MySQL, PostgreSQL, MongoDB, NoSQL
-
-#### 🖥️ Web Technologies
-- HTML5, CSS3, React.js, Next.js, TailwindCSS  
-- Node.js, Express.js
+- Scalable backend systems and microservices
+- Real-time event-driven applications
+- AI-powered workflow and knowledge retrieval systems
+- Full-stack dashboards and web applications
+- Blockchain DApps and smart contract systems
+- Cloud-native deployment and system optimization
 
 ---
 
-#### ☁️ Cloud & DevOps
-
-**Platforms:**  
-- Microsoft Azure  
-- Google Cloud Platform  
-- AWS (basic)
-
-**DevOps Tools:**  
-- Git & GitHub, Postman, Jira, JWT  
-- REST API design, automated testing  
-
----
-
-#### 🤖 AI / ML & Generative Models
-
-**Frameworks & Models:**  
-- PyTorch, DCGAN, StyleGAN2  
-- MLPs, CNNs, GANs  
-
-**Tasks & Skills:**  
-- Hyperparameter tuning  
-- Epoch visualization  
-- Model evaluation and image quality analysis  
-
----
-
-#### ⛓️ Blockchain Stack
-
-**Smart Contracts:**  
-- Solidity, Hardhat, Foundry  
-- Unit testing, gas optimization, modifiers, access control  
-
-**Web3 Tooling:**  
-- Ethers.js, WAGMI, MetaMask, Alchemy, Ganache  
-- Cross-chain integration with Chainlink CCIP  
-
----
-
-### 📈 Used Languages (via GitHub)
+## GitHub Stats
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dhanushsubbaiah&layout=compact&theme=tokyonight)
 
 ---
 
-### 📫 How to reach me
+## Connect With Me
 
-- [LinkedIn](https://www.linkedin.com/in/dhanush-subbaiah/)  
-- 📧 dhanushsubbaiah59@gmail.com  
-
----
-
-### ⚡ Fun Fact
-
-I love building and optimizing, from training GANs for image generation and developing cross-chain DApps to designing secure smart contracts and exploring scalable cloud solutions.
+- [LinkedIn](https://www.linkedin.com/in/dhanush-subbaiah/)
+- [GitHub](https://github.com/Dhanushsubbaiah)
+- Email: dhanushsubbaiah59@gmail.com
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=Dhanushsubbaiah&label=Profile%20Views&color=6&icon=5&pretty=true)](https://github.com/Dhanushsubbaiah)
+## Fun Fact
+
+I like building systems across different layers — from backend services and AI workflows to blockchain applications and cloud deployments.
