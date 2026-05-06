@@ -48,11 +48,12 @@ Solidity, Hardhat, Foundry, Ethers.js, WAGMI, MetaMask, Alchemy, Chainlink CCIP
 
 ---
 
-## GitHub Activity
+## Current Focus
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhanushsubbaiah&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
+- Building scalable backend systems and microservices
+- Working with cloud-native applications and DevOps workflows
+- Exploring AI-powered workflows using LLMs, RAG, and vector databases
+- Developing full-stack applications with React, Next.js, Node.js, and Spring Boot
 ---
 
 ## Connect With Me
